@@ -52,7 +52,7 @@ colors_dict = {
     "SPY": "#0000ff",  # blue
     "QQQ": "#2ca02c",  # green
     "IWM": "#ff7f0e",  # orange
-    "MDY": "#75E6DA",  # purple
+    "MDY": "#189AB4",  # purple
     "SHY": "#1c1a1a",  # brown
     "TLT": "#81B622",  # pink
     "JNK": "#7f7f7f",  # gray
